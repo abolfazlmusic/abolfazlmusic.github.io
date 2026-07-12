@@ -180,3 +180,21 @@ font-size:17px;
     padding:10px;
     border-radius:10px;
 }
+.player{
+    width:260px !important;
+    margin:30px auto !important;
+    position:relative;
+    border-radius:20px;
+    overflow:hidden;
+}
+
+.player .cover{
+    width:260px !important;
+    height:260px !important;
+    object-fit:cover;
+}
+
+.player audio{
+    width:240px !important;
+    margin:10px;
+}
